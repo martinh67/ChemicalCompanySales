@@ -1,4 +1,4 @@
-# FPW2Assignment1
+# Chemical Company Sales
 
 My week 2 assignment 1 for Fundamentals of Programming completed **22/11/2020**:
 
